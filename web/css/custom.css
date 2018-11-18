@@ -1,0 +1,33 @@
+.custom_carousel_wrap{
+    width: 100%;
+    height:600px;
+    overflow: hidden;
+}
+.custom_carousel_wrap img{
+    width: 1125px; 
+    height: 600px; 
+    object-fit: cover;
+}
+.custom_title{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.custom_title h2{
+    text-align: center;
+}
+.custom_card_img img{
+    height: 300px; 
+    object-fit: cover;
+}
+footer .navbar{
+    text-align:center;
+}
+.custom_footer_title{
+    color: white;
+}
+.card-link+.card-link{
+    margin-left: 0;
+}
+.active_category{
+    color: #0056b3;
+}
